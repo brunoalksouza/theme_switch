@@ -2,6 +2,10 @@ html {
   transition: 0.5s;
 }
 
+.switchToBlack {
+  background-color: rgb(0, 0, 0);
+}
+
 /* The switch - the box around the slider */
 .switch {
   position: relative;
@@ -66,3 +70,4 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
