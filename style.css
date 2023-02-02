@@ -1,3 +1,7 @@
+html {
+  transition: 0.5s;
+}
+
 /* The switch - the box around the slider */
 .switch {
   position: relative;
