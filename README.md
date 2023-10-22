@@ -17,6 +17,10 @@ Make sure you have Git installed on your system.
 
 ## How to use
 
+<p>
+Clone this repository to your system:
+</p>
+
 ```
 git clone https://github.com/seu-usuario/repository-name.git
 ```
